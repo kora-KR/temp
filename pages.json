@@ -1,0 +1,33 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "青岛天气"
+			}
+		}
+	    ,{
+            "path" : "pages/self/self",
+            "style" : {
+				"navigationBarTitleText": "开发 - 简介"
+			}
+        }
+        ,{
+            "path" : "pages/city/city",
+            "style" : {
+					"navigationBarTitleText": "城市列表"
+			}
+        }
+        ,{
+            "path" : "pages/set/set",
+            "style" : {
+				"navigationBarTitleText": "开发中"}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "青岛天气",
+		"navigationBarBackgroundColor": "#222",
+		"backgroundColor": "#F8F8F8"
+	}
+}
