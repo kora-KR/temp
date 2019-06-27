@@ -10,6 +10,12 @@
 ![城市选择 - uni插件导入| 城市列表查询](https://pic2.zhimg.com/80/v2-ab8451d688d108f79a2295a3502f8b1f_hd.png)
 
 
+**项目引入**
+
+- git clone https://github.com/kora-KR/temp
+- 下载到本地生成temp文件 cd temp
+- npm i
+
 
 **插件使用说明**
 
