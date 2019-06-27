@@ -13,10 +13,9 @@
 ## 项目引入
 
 - git clone https://github.com/kora-KR/temp
-- 下载到本地生成temp文件 cd temp
-- npm i
-- 下载Hbuilder X 导入项目
-- ![下载地址](https://www.dcloud.io/hbuilderx.html)
+- 下载到本地生成temp文件 cd temp->npm i（进入项目，安装项目插件）
+- 下载[uni-app使用技巧](https://zhuanlan.zhihu.com/p/71010316)
+- [Hbuilder X - 下载地址](https://www.dcloud.io/hbuilderx.html)
 
 
 **插件使用说明**
